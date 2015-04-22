@@ -18,4 +18,8 @@
         <item name="android:textSize">20pt</item>
         <item name="android:textColor">#aabbff</item>
     </style>
+
+    <style name="CustomFontStyle.Red">
+        <item name="android:textColor">#ff0000</item>
+    </style>
 </resources>
